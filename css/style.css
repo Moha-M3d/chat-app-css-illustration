@@ -93,7 +93,7 @@ main {
     transform: translate(-15%, -15%);
     border-bottom-left-radius: 999px;
     border-bottom-right-radius: 999px;
-    background-image: linear-gradient(to bottom, var(--gradient-colors));
+    background-image: linear-gradient(to top, var(--gradient-colors));
 }
 
 .right-bg {
